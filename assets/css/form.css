@@ -4,7 +4,7 @@ body {
   }
   
   header, footer {
-    background-color: #293864;
+    background-color: #323235;
     color: white;
     text-align: center;
     padding: 10px;
@@ -17,7 +17,7 @@ body {
   
   .box {
     flex: 1;
-    border: 2px solid black;
+    border: 2px solid #323235;
     padding: 20pt;
   }
 
